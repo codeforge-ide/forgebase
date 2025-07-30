@@ -1,0 +1,36 @@
+# Binaries
+/bin/
+/build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Vendor
+/vendor/
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env/config
+.env
+.env.*
+
+# Logs
+*.log
+
+# Coverage
+coverage.out
+
+# Go modules
+/go.sum
